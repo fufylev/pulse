@@ -41,3 +41,8 @@ example
 # generated native folders
 /ios
 /android
+
+# local dev tooling
+.claude/
+CLAUDE.md
+AGENTS.md
